@@ -1,7 +1,7 @@
 # MultiTreadPatternJava
 
 - SingleThreadedExecution
-- not yet
+- Immutable
 - GuardedSuspension
 
 reference https://www.hyuki.com/dp/dp2.html
